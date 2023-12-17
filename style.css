@@ -1,0 +1,70 @@
+.rik{
+    text-align: center;
+    transition: 2s;
+}
+.rik:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color: blue;
+}
+body{
+    margin: 0;
+}
+header,footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+.nav{
+    display: flex;
+    gap: 30px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    transition: 2s;
+}
+a:hover{
+    color: black;
+}
+.new{
+    text-align: center;
+    transition: 2s;
+}
+.new:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color: blue;
+}
+.photo{
+    width: px;
+}
+.div{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+.img{
+    display: flex;
+    margin-bottom: 30px;
+    gap: 40px;
+}
+.did{
+    text-align: center;
+    transition: 2s;
+}
+.did:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color: blue;
+}
+.moroz{
+    display: flex;
+    margin-bottom: 30px;
+    gap: 10px;
+}
